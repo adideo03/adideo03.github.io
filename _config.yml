@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Aditya S. Deore"
 title_separator          : "-"
-name                     : &name "Aditya S. Deore"
-description              : &description "Homo Sapien on a journey of discovery...."
+name                     : &name ""
+description              : &description ""
 url                      : https://adideo03.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adideo03/adideo03.github.io"
@@ -22,9 +22,9 @@ repository               : "adideo03/adideo03.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Aditya S. Deore"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Homo Sapien on a journey of discovery...."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
